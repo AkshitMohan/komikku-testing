@@ -37,7 +37,17 @@ The format is a modified version of [Keep a Changelog](https://keepachangelog.co
 - Fix app not reading `tachiyomix.extensionLib` extension metadata ([@AntsyLich](https://github.com/AntsyLich)) ([#3545](https://github.com/mihonapp/mihon/pull/3545), [#3559](https://github.com/mihonapp/mihon/pull/3559))
 - Fix reader navigator slider steps not updating after changing chapter ([@AntsyLich](https://github.com/AntsyLich)) ([#3549](https://github.com/mihonapp/mihon/pull/3549))
 
-## 2026-06-27
+## 2026-11-09
+### Added
+ - (pending)
+ 
+### Improved
+ - Distinguishability between forked app and main app (Kom1kku & Komikku, respectively)
+
+### Fixed
+ - (also pending)
+
+## 2026-11-08
 holy shit this changelog setup is more advanced than I was expecting, but I'll do my best :,)
 ### Added
 - Support for [ComicK](https://comick.dev/) tracker. Why this doesn't even seem to be on the itinerary right now, I don't know.
