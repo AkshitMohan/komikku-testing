@@ -15,7 +15,7 @@
 
 ## Download
 
-[![Latest](https://img.shields.io/github/v/release/sl1pstream/komikku-testing.svg?maxAge=3600&label=Latest&labelColor=06599d&color=043b69)](https://github.com/sl1pstream/komikku-testing/releases/latest)
+[![Latest builds here](https://img.shields.io/github/v/release/sl1pstream/komikku-testing.svg?maxAge=3600&label=Latest&labelColor=06599d&color=043b69)](https://github.com/sl1pstream/komikku-testing/releases/latest)
 
 *Requires Android 8.0 or higher.*
 
