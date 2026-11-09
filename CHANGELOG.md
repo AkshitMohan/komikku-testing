@@ -44,7 +44,8 @@ holy shit this changelog setup is more advanced than I was expecting, but I'll d
 - Support for [MangaBaka](https://mangabaka.org) tracker ([@MajorTanya](https://github.com/MajorTanya)) ([#3047](https://github.com/mihonapp/mihon/pull/3047)) 
 
 ## Improved
-- Nothing (hey don't look at me, I just live here)
+- ~~Nothing (hey don't look at me, I just live here)~~
+- ComicK 401 error will now prompt a retry instead of just giving up
 
 ## Fixed
 - Global crash related to an HTTP-related exception (at least that's what I got from my crash logs. Could just be an extension issue, idfk)
