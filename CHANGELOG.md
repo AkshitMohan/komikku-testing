@@ -37,6 +37,17 @@ The format is a modified version of [Keep a Changelog](https://keepachangelog.co
 - Fix app not reading `tachiyomix.extensionLib` extension metadata ([@AntsyLich](https://github.com/AntsyLich)) ([#3545](https://github.com/mihonapp/mihon/pull/3545), [#3559](https://github.com/mihonapp/mihon/pull/3559))
 - Fix reader navigator slider steps not updating after changing chapter ([@AntsyLich](https://github.com/AntsyLich)) ([#3549](https://github.com/mihonapp/mihon/pull/3549))
 
+## 2026-06-27
+holy shit this changelog setup is more advanced than I was expecting, but I'll do my best :,)
+### Added
+- Support for [ComicK](https://comick.dev/) tracker. Why this doesn't even seem to be on the itinerary right now, I don't know.
+
+## Improved
+- Nothing (hey don't look at me, I just live here)
+
+## Fixed
+- Global crash related to an HTTP-related exception (at least that's what I got from my crash logs. Could just be an extension issue, idfk)
+
 ## [v0.20.0] - 2026-06-27
 ### Added
 - Add support for `tachiyomix` 1.6 extensions ([@AntsyLich](https://github.com/AntsyLich))
