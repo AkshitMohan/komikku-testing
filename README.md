@@ -19,6 +19,8 @@
 
 *Requires Android 8.0 or higher.*
 
+**Note:** I have not changed the sponsor link. All support using the button below goes straight to the devs of the original project. I am not an official part of their project and won't request any donations for a few minor additions on top of an app that is 99.9% someone else's work. All credits where due to Komikku's devs.
+
 [![Sponsor me on GitHub](https://custom-icon-badges.demolab.com/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/sponsors/cuong-tran "Sponsor me on GitHub")
 
 <div align="left">
