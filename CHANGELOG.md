@@ -41,8 +41,12 @@ The format is a modified version of [Keep a Changelog](https://keepachangelog.co
 ### Added
  - (pending)
  
+### Changed
+ - (pending)
+ 
 ### Improved
  - Distinguishability between forked app and main app (Kom1kku & Komikku, respectively)
+ - Global search is reflective of Mihon's latest implementations. Much faster and more visually stable
 
 ### Fixed
  - Backups created from import will now transfer ComicK to both Mihon and [Houri](https://github.com/PineappleTwilight/houri), a fork that marches to the beat of its own drum. *You will still need to sign out and in to ComicK on apps you import backups to. This seems to be a constraint from ComicK's end*
