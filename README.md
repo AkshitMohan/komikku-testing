@@ -33,8 +33,9 @@ A free and open source manga reader which is based off TachiyomiSY & Mihon/Tachi
 ## Features
 
 ### This fork's unique features:
-- Additional trackers: [ComicK](https://comick.dev/) and [MangaBaka](https://mangabaka.org/)
-- Slightly more stable global searching
+- (Mihon) Additional trackers: [ComicK](https://comick.dev/) and [MangaBaka](https://mangabaka.org/)
+- (Mihon) Slightly more stable global searching
+- (TachiyomiSY) *Untested* SyncYomi v2 support
 
 ### Komikku's unique features:
 - `Suggestions` automatically showing source-website's recommendations / suggestions / related to current entry for all sources.

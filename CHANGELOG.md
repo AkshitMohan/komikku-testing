@@ -42,11 +42,12 @@ The format is a modified version of [Keep a Changelog](https://keepachangelog.co
  - (pending)
  
 ### Changed
- - (pending)
+ - SyncYomi now supports the v2 protocol (experimental)
  
 ### Improved
- - Distinguishability between forked app and main app (Kom1kku & Komikku, respectively)
+ - Distinguishability between forked app and main app (Kom1kku vs Komikku, respectively. might make a subtle chnage to the app icon eventually)
  - Global search is reflective of Mihon's latest implementations. Much faster and more visually stable
+ - Faster backup restoring via SyncYomi
 
 ### Fixed
  - Backups created from import will now transfer ComicK to both Mihon and [Houri](https://github.com/PineappleTwilight/houri), a fork that marches to the beat of its own drum. *You will still need to sign out and in to ComicK on apps you import backups to. This seems to be a constraint from ComicK's end*
